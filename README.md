@@ -4,8 +4,6 @@
 
 This assignment focuses on our ability to create a backend server, and connect it with a cloud based database.  We were tasked to write API endpoints for the following routes:
 
-## Links
-* [Live Demo](https://we-love-movies-capstone.vercel.app/)
 
 ## Definitions of API Routes
 
